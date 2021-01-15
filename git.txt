@@ -1,0 +1,12 @@
+tạo mới kho chứa
+--git init
+kiểm tra trạng thái
+-- git status
+them file 
+-- git add "ten file"
+thêm tất cả file
+-- git add .
+chú thích thay đổi
+-- commit -m "..."
+gộp cả thêm cả chú thích
+-- commit -a -m ".."
