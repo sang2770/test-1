@@ -10,3 +10,5 @@ chú thích thay đổi
 -- commit -m "..."
 gộp cả thêm cả chú thích
 -- commit -a -m ".."
+tra cứu lịch sử commit
+-- git log
