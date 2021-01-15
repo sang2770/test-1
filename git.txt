@@ -35,4 +35,4 @@ git revert + id
 cập nhật từ gihub về
 -- git pull
 sang nguyen 
-
+nguyen van sang
