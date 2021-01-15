@@ -12,3 +12,14 @@ gộp cả thêm cả chú thích
 -- commit -a -m ".."
 tra cứu lịch sử commit
 -- git log
+
+
+github
+tạo mooy repo mới
+làm theo hướng dẫn
+
+tai ve may tinh
+tim vị trí lưu -> chuột phải + git bash here
+git clone + duong dan copy
+
+
