@@ -17,9 +17,22 @@ tra cứu lịch sử commit
 github
 tạo mooy repo mới
 làm theo hướng dẫn
+tạo Branch
+git branch -M (ten)
+git remote add origin (đường link)
+git push -u origin (master/tên branch)
+
 
 tai ve may tinh
 tim vị trí lưu -> chuột phải + git bash here
 git clone + duong dan copy
 
+sửa file -> git push :đẩy file lên github
+
+quay lại lần sửa trc
+git revert + id
+
+cập nhật từ gihub về
+-- git pull
+sang nguyen 
 
